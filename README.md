@@ -16,6 +16,6 @@
 
 ## 🚀 Getting Started
 ```bash
-git clone 
+git clone https://github.com/zcode-glitch/to-do-list-python-.git
 cd to-do-list
 python main.py / py main.py / python3 main.py
